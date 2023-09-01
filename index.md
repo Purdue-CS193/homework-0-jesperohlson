@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Jesper's First CS193 Homework
 
 ## Some of my Favorite things about CS193
